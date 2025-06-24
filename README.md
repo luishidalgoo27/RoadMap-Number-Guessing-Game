@@ -6,7 +6,7 @@ El objetivo es adivinar un número secreto entre 1 y 100 en el menor número de 
 
 ## 🔗 Enlace al reto original
 
-👉 [Github User Activity en roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
+👉 [Github Number Guessing Game en roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
 
 ## 📋 Requisitos
 
@@ -24,10 +24,8 @@ git clone [https://github.com/tu_usuario/number-guessing-game.git](https://githu
 Accede a la carpeta del proyecto:
 
 cd RoadMap-Number-Guessing-Game
-Ejecuta el juego con PHP:
+Ejecuta el juego con PHP: php Game.php
 
-
-php Game.php
 🎮 Cómo funciona el juego
 Cuando inicies el juego, verás:
 
